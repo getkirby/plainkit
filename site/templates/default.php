@@ -1,1 +1,1 @@
-<h1><?php echo $page->title()->html() ?></h1>
+<h1><?= $page->title() ?></h1>
