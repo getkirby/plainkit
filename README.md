@@ -45,15 +45,15 @@ Kirby runs on PHP 7.1+, Apache or Nginx.
 
 ### Download
 
-You can download the latest version of the Starterkit
-from https://download.getkirby.com
+You can download the latest version of the Plainkit
+from https://github.com/getkirby/plainkit/archive/master.zip
 
 ### With Git
 
 If you are familiar with Git, you can clone Kirby's
-Starterkit repository from Github.
+Plainkit repository from Github.
 
-    git clone https://github.com/getkirby/starterkit.git
+    git clone https://github.com/getkirby/plainkit.git
 
 ## Documentation
 
