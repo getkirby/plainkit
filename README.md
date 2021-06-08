@@ -12,7 +12,7 @@ You can try Kirby and the Plainkit on your local machine or on a test server as 
 ### Get going
 Read our guide on [how to get started with Kirby](https://getkirby.com/docs/guide/quickstart).
 
-You can [download the latest version](https://github.com/getkirby/plainkit/archive/master.zip) of the Plainkit.  
+You can [download the latest version](https://github.com/getkirby/plainkit/archive/main.zip) of the Plainkit.  
 If you are familiar with Git, you can clone Kirby's Plainkit repository from Github.
 
     git clone https://github.com/getkirby/plainkit.git
