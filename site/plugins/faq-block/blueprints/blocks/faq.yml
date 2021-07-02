@@ -1,0 +1,11 @@
+name: FAQ
+icon: star
+fields:
+  headline:
+    type: text
+  text:
+    type: writer
+  blocks:
+    type: blocks
+    fieldsets:
+      - faqItem

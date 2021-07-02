@@ -1,8 +1,5 @@
 title: Default Page
 preset: page
 fields:
-  text:
-    label: Text
-    type: textarea
-    size: large
-
+  blocks:
+    type: blocks
