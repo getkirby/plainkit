@@ -1,9 +1,0 @@
-name: Question / Answer
-icon: box
-fields:
-  question:
-    type: text
-    placeholder: Your question …
-  answer:
-    type: writer
-    placeholder: Your answer …
