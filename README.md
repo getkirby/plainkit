@@ -32,5 +32,5 @@ If you are familiar with Git, you can clone Kirby's Plainkit repository from Git
 
 ---
 
-© 2009 Bastian Allgeier
+© 2009-2024 Bastian Allgeier  
 [getkirby.com](https://getkirby.com) · [License agreement](https://getkirby.com/license)
