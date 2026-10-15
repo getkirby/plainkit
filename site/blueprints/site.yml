@@ -1,5 +1,5 @@
 title: Site
 
-sections:
+fields:
   pages:
-    type: pages
+    type: pagelist
